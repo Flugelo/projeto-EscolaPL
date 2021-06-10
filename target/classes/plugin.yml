@@ -1,0 +1,7 @@
+main: me.flugel.escolapl.Main
+author: DevFlugelo
+version: 1.0
+name: EscolaPL
+api-version: 1.16
+commands:
+  staff:

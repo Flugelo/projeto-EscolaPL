@@ -1,0 +1,19 @@
+#╭━━━╮╱╱╱╱╱╱╱╱   ╭╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#┃╭━╮┃╱╱╱╱╱╱╱╱   ┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#┃╰━━╮╭━━╮╭━━╮   ┃┃╱╭╮╭╮╭━━╮╭━━╮╭━━╮╭━━╮
+#╰━━╮┃┃╭╮┃┃╭╮┃   ┃┃╱┃┃┃┃┃━━┫┃╭━╯┃╭╮┃┃━━┫
+#┃╰━╯┃┃╭╮┃┃╰╯┃   ┃╰╮┃╰╯┃┣━━┃┃╰━╮┃╭╮┃┣━━┃
+#╰━━━╯╰╯╰╯╰━━╯   ╰━╯╰━━╯╰━━╯╰━━╯╰╯╰╯╰━━╯
+#╱╱╱╱╱╱╱╱╱╱╱╱╱   ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#╱╱╱╱╱╱╱╱╱╱╱╱╱   ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#Plugin desenvolvivo por Gabriel Flugel Silva
+#Uso api Discord desenvolvida por Daniel soares
+#Utilizado no mapa feito por Vinny e Guzen
+
+Config:
+  #Configuração da data base; mysql
+  user: "root"
+  senha: ""
+  host: "localhost"
+  porta: 3306
+  dataBase: "ALUNOS"
