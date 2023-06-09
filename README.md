@@ -39,5 +39,8 @@ Se você tiver alguma dúvida, sugestão ou feedback, por favor, entre em contat
 
 Divirta-se apresentando slides inovadores dentro do Minecraft!
 
+
+## Instituição São Lucas feito dentro do jogo Minecraft
+![São lucas feita no minecraft](sao_lucas.png)
 ## Video
 https://youtu.be/i1P5y5plW7o
